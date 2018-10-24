@@ -10,7 +10,7 @@
         {
             "environment": [],
             "name": "simple-app",
-            "image": "amazon/amazon-ecs-sample",
+            "image": "linuxacademy/ecs-deep-dive:simple-app",
             "cpu": 10,
             "memory": 500,
             "portMappings": [
